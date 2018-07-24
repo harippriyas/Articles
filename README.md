@@ -1,4 +1,4 @@
 # Articles
-Collection of my articles and whitepapers
+Collection of my articles, whitepapers and presentations.
 
-Note: These were written by me for Micro Focus, as a contribution to Solution marketing or Tech Journals. They are available on Micro Focus site as well for public consumption but may be subject to Micro Focus copyright policies.
+Note: These were created by me at Micro Focus for Solution marketing, Tech Journals or as part of various company wide sessions at the India Development Center (IDC, Bangalore). Many are available on Micro Focus site as well for public consumption but may be subject to Micro Focus copyright policies.
